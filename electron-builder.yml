@@ -1,0 +1,11 @@
+appId: com.megamenu.nextron
+productName: VictorCar86
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
